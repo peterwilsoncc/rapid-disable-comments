@@ -1,4 +1,4 @@
-=== Rapidly disable comments ===
+# Rapidly disable comments
 
 Contributors: peterwilsoncc  
 Tags: comments  
@@ -11,10 +11,10 @@ License URI: https://github.com/peterwilsoncc/rapid-disable-comments/blob/main/L
 
 Disable comments and trackbacks on all posts, old and new.
 
-== Description ==
+## Description
 Disable comments and trackbacks on all posts for your site. This removes the option to override the default value for new posts. Comments and trackbacks are off.
 
 No UI, no links, no review nags.
 
-== Installation ==
+## Installation
 In your WordPress dashboard, visit Plugins > Add new and search for \"rapidly disable plugins\".
